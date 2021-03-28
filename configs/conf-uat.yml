@@ -2,7 +2,7 @@ app:
   name: "config reader uat"
   version: 1
   strings:
-    - "a"
+    - "hello"
     - "b"
     - "c"
   numbers:
